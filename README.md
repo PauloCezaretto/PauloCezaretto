@@ -1,4 +1,6 @@
-<h3>Olá sou Paulo Alvares, estudante de ADS na SPTech, e um orgulhoso membro da equipe de SAP na Accenture!</h3>
+<h1>👋Olá sou o Paulo</h1>
+Bem vindo ao meu perfil do GitHub. Tenho 19 anos, e faço o curso de Análise e Desenvolvimento de Sistemas na SPTech.
+Sou um orgulhoso membro do time de SAP da Accenture!
 
 ##
 
