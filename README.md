@@ -1,4 +1,4 @@
-## 👋Olá sou o Paulo!
+## 👋Hello World, sou o Paulo!
 Bem vindo ao meu perfil do GitHub. Tenho 19 anos, e faço o curso de Análise e Desenvolvimento de Sistemas na SPTech. <br>
 Sou um orgulhoso membro do time de SAP da Accenture!
 
