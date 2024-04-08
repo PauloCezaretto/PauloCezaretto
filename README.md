@@ -5,8 +5,8 @@ Sou um orgulhoso membro do time de SAP da Accenture! Minha jornada no mundo da t
 ###
 
 <div style="display: block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=donut&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
 ##
