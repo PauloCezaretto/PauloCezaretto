@@ -32,22 +32,22 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark&perline=3" />
   </p>
   </td>
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> Database </div>
+  ### <div align="center"> BD </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=3" />
   </p>
   </td>
 
   <td valign="top" width="20%">
 
-  ### <div align="center"> Clound </div>
+  ### <div align="center"> Cloud </div>
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=3" />
@@ -56,7 +56,7 @@
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> Tools </div>
+  ### <div align="center"> Ferramentas </div>
 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,figma,docker&theme=dark&perline=3" />
