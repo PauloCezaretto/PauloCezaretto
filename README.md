@@ -2,6 +2,8 @@
   <img width="80%" src="assets/banner_name.png"/>
 </div>
 
+## <div align="center">👋Sobre Mim</div>
+
 <p align="center">
   E aí, visitante do meu perfil no GitHub! 🚀 Eu sou o Paulo e estou aqui para compartilhar minha jornada tecnológica com você! <br>
   Tenho 20 anos, estou atualmente cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou daqueles que adora desafios, <br>
@@ -13,14 +15,7 @@
   esse universo infinitamente fascinante que é a tecnologia! Estou sempre aberto a novas conexões e aprendizados. Vamos nessa!
 </p>
 
-###
-
-<div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=donut&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
-</div>
-
-##
+## <div align="center">👨‍💻Tecnologias</div>
 
 <table align="center"><tr>
   <td valign="top" width="20%">
@@ -69,7 +64,14 @@
   </td>
 </tr></table>
 
-  ##
+## <div align="center">📊Meus Status</div>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
+</div>
+
+## <div align="center">📱Redes Sociais</div>
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares-10a5b9272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -78,5 +80,7 @@
   <a href="https://codepen.io/Poulos-Alvares" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/Poulos-Alvares" target="_blank"><img src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+##
 
 ![snake gif](https://github.com/Paulo-Alvares/Paulo-Alvares/blob/output/github-contribution-grid-snake-dark.svg)
