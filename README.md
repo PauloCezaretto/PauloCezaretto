@@ -15,56 +15,59 @@
 
 ###
 
-<div style="display: block" align="center">
+<div align="center">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=donut&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
 ##
 
-<table align="center"><tr><td valign="top" width="20%">
+<table align="center"><tr>
+  <td valign="top" width="20%">
+      
+  ### <div align="center"> Front-End </div>
+      
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=3" />
+  </p>
+  </td>
+  
+  <td valign="top" width="20%">
 
-### <div align="center"> Front-End </div>
+  ### <div align="center"> Back-End </div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=3" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
+  </p>
+  </td>
+  
+  <td valign="top" width="20%">
 
-</td><td valign="top" width="20%">
+  ### <div align="center"> Database </div>
 
-### <div align="center"> Back-End </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma&theme=dark&perline=3" />
+  </p>
+  </td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
-</p>
+  <td valign="top" width="20%">
 
-</td><td valign="top" width="20%">
+  ### <div align="center"> Clound </div>
 
-### <div align="center"> Database </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=3" />
+  </p>
+  </td>
+  
+  <td valign="top" width="20%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma&theme=dark&perline=3" />
-</p>
+  ### <div align="center"> Tools </div>
 
-</td>
-
-<td valign="top" width="20%">
-
-### <div align="center"> Clound </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="20%">
-
-### <div align="center"> Tools </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,docker&theme=dark&perline=3" />
-</p>
-
-</td></tr></table>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,docker&theme=dark&perline=3" />
+  </p>
+  </td>
+</tr></table>
 
   ##
 <div align="center"> 
