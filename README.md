@@ -67,8 +67,8 @@
 ## <div align="center">📊Meus Status</div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=7&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
 ## <div align="center">📱Redes Sociais</div>
