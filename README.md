@@ -32,7 +32,7 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
   </p>
   </td>
   
@@ -59,7 +59,7 @@
   ### <div align="center"> Ferramentas </div>
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,docker&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=git,linux,figma,docker&theme=dark&perline=3" />
   </p>
   </td>
 </tr></table>
