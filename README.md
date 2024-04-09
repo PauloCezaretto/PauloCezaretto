@@ -64,17 +64,6 @@
   </td>
 </tr></table>
 
-## <div align=center>🗂️Principais Repositórios</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Bubbles&repo=bubbles-website-app&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Bubbles&repo=bubbles-spring-api-backend&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Easy-Where&repo=Easy-Website&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Alvares&repo=Pass.in&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Alvares&repo=Rocking&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emerald-Corporate&repo=Emerald-Website&theme=github_dark"/>
-</div>
-
 ## <div align="center">📊Meus Status</div>
 
 <div align="center">
