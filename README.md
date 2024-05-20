@@ -41,7 +41,7 @@
   ### <div align="center"> BD </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark&perline=3" />
   </p>
   </td>
 
@@ -50,7 +50,7 @@
   ### <div align="center"> Nuvem </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform&theme=dark&perline=3" />
   </p>
   </td>
   
