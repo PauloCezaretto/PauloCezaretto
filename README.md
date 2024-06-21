@@ -2,19 +2,18 @@
   <img width="80%" src="assets/banner_name.png"/>
 </div>
 
-## <div align="center">👋Sobre Mim</div>
+## <div align="center">👋About Me</div>
 
 <p align="left">
-  E aí, visitante do meu perfil no GitHub! Eu sou o Paulo e estou aqui para compartilhar minha jornada tecnológica com você! <br>
-  Tenho 20 anos, estou atualmente cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou daqueles que adora desafios.<br><br>
-  Minha jornada só está começando, cada dia é uma nova oportunidade para aprender algo novo, e acredite, eu estou <br>
-  sempre de olho nas tecnologias emergentes que estão mexendo com o cenário tech. <br><br>
-  Além do código, adoro uma boa música, uma conversa sobre séries ou filmes, ou até mesmo uma partida rápida de algum jogo. <br><br>
-  Então, se você está por aqui, fique à vontade para explorar meus projetos, dar sugestões ou apenas trocar uma ideia sobre <br>
-  esse universo infinitamente fascinante que é a tecnologia! Estou sempre aberto a novas conexões e aprendizados. Vamos nessa!
+  Hey there, visitor to my GitHub profile! I'm Paulo, passionate about technology and always seeking new challenges. <br><br>
+  I'm 20 years old and have a degree in Systems Analysis and Development from SPTech. My journey in the tech world is <br>
+  just beginning, and each day is a new chance to learn something amazing. I'm always on the lookout for emerging technologies <br>
+  that are revolutionizing the tech landscape. <br><br>
+  Welcome to my profile! Feel free to explore my projects, give suggestions, or simply chat about this endlessly fascinating <br>
+  universe that is technology. I'm always open to new connections and learning opportunities.
 </p>
 
-## <div align="center">👨‍💻Tecnologias</div>
+## <div align="center">👨‍💻Technologies</div>
 
 <table align="center"><tr>
   <td valign="top" width="20%">
@@ -37,7 +36,7 @@
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> BD </div>
+  ### <div align="center"> Database </div>
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark&perline=3" />
@@ -46,7 +45,7 @@
 
   <td valign="top" width="20%">
 
-  ### <div align="center"> Nuvem </div>
+  ### <div align="center"> Cloud </div>
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=azure,aws,terraform&theme=dark&perline=3" />
@@ -55,7 +54,7 @@
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> Ferramentas </div>
+  ### <div align="center"> Tools </div>
 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,figma,docker&theme=dark&perline=3" />
@@ -63,14 +62,14 @@
   </td>
 </tr></table>
 
-## <div align="center">📊Meus Status</div>
+## <div align="center">📊My Status</div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas&border_color=30363d&bg_color=00000000"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&custom_title=Linguagens%20Mais%20Usadas&border_color=30363d&bg_color=00000000"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&custom_title=Languages&border_color=30363d&bg_color=00000000"/>
 </div>
 
-## <div align="center">📱Redes Sociais</div>
+## <div align="center">📱Social Media</div>
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares-10a5b9272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
