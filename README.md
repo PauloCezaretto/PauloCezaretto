@@ -5,10 +5,9 @@
 ## <div align="center">👋Sobre Mim</div>
 
 <p align="left">
-  E aí, visitante do meu perfil no GitHub! 🚀 Eu sou o Paulo e estou aqui para compartilhar minha jornada tecnológica com você! <br>
-  Tenho 20 anos, estou atualmente cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou daqueles que adora desafios, <br>
-  e é por isso que me juntei ao time de SAP da Accenture, onde mergulho de cabeça em projetos empolgantes e colaborativos. <br><br>
-  Mas olha, essa jornada só está começando! Cada dia é uma nova oportunidade para aprender algo novo, e acredite, eu estou <br>
+  E aí, visitante do meu perfil no GitHub! Eu sou o Paulo e estou aqui para compartilhar minha jornada tecnológica com você! <br>
+  Tenho 20 anos, estou atualmente cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou daqueles que adora desafios.<br><br>
+  Minha jornada só está começando, cada dia é uma nova oportunidade para aprender algo novo, e acredite, eu estou <br>
   sempre de olho nas tecnologias emergentes que estão mexendo com o cenário tech. <br><br>
   Além do código, adoro uma boa música, uma conversa sobre séries ou filmes, ou até mesmo uma partida rápida de algum jogo. <br><br>
   Então, se você está por aqui, fique à vontade para explorar meus projetos, dar sugestões ou apenas trocar uma ideia sobre <br>
