@@ -78,6 +78,6 @@
   <a href="https://codepen.io/Poulos-Alvares" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- ## <div align="center">🏃Minha Atividade</div>
+<!-- ## <div align="center">🏃My Activity</div>
 
 ![snake gif](https://github.com/Paulo-Alvares/Paulo-Alvares/blob/output/github-contribution-grid-snake-dark.svg) -->
