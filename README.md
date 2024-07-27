@@ -4,7 +4,7 @@
 
 ## <div align="center">👋About Me</div>
 
-<p align="left">
+<p align="center">
   Hey there, visitor to my GitHub profile! I'm Paulo, passionate about technology and always seeking new challenges. <br><br>
   I'm 20 years old and have a degree in Systems Analysis and Development from SPTech. My journey in the tech world is <br>
   just beginning, and each day is a new chance to learn something amazing. I'm always on the lookout for emerging technologies <br>
