@@ -77,11 +77,11 @@
   
   <td valign="top" width="50%">
 
-  ### <div align="center"> SPTech </div>
+  ### <div align="center"> SPTech Learn</div>
       
   <p align="center">
     Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
-    <a href="https://github.com/SPTechLearn" target="_blank"><img src="https://abrir.link/zOMlG"></a>
+    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-shield.svg"></a>
   </p>
   </td>
 </tr></table>
