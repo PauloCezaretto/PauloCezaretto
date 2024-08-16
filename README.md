@@ -81,7 +81,7 @@
       
   <p align="center">
     Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
-    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-hield.svg"></a>
+    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-shield.svg"></a>
   </p>
   </td>
 </tr></table>
