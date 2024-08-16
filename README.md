@@ -62,7 +62,31 @@
   </td>
 </tr></table>
 
-## <div align="center">📊My Status</div>
+## <div align="center">📖Studying</div>
+
+<table align="center"><tr>
+  <td valign="top" width="50%">
+      
+  ### <div align="center"> My Learn Hub </div>
+      
+  <p align="center">
+    Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br><br>
+    <a href="https://github.com/MyLearnHub" target="_blank"><img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5"></a>
+  </p>
+  </td>
+  
+  <td valign="top" width="50%">
+
+  ### <div align="center"> SPTech </div>
+      
+  <p align="center">
+    Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
+    <a href="https://github.com/SPTechLearn" target="_blank"><img src="https://abrir.link/zOMlG"></a>
+  </p>
+  </td>
+</tr></table>
+
+## <div align="center">📊Status</div>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
