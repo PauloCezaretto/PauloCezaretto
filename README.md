@@ -67,7 +67,7 @@
 <table align="center"><tr>
   <td valign="top" width="50%">
       
-  ### <div align="center"> My Learn Hub </div>
+  ### <div align="center"> ✏️My Learn Hub </div>
       
   <p align="center">
     Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br><br>
@@ -77,11 +77,11 @@
   
   <td valign="top" width="50%">
 
-  ### <div align="center"> SPTech Learn</div>
+  ### <div align="center"> 🎒SPTech Learn</div>
       
   <p align="center">
     Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
-    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-shield.svg"></a>
+    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-hield.svg"></a>
   </p>
   </td>
 </tr></table>
