@@ -30,7 +30,7 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
   </p>
   </td>
   
