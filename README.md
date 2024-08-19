@@ -57,7 +57,7 @@
   ### <div align="center"> Tools </div>
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,figma,docker&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,linux,figma,docker&theme=dark&perline=3" />
   </p>
   </td>
 </tr></table>
@@ -71,7 +71,7 @@
       
   <p align="center">
     Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br><br>
-    <a href="https://github.com/MyLearnHub" target="_blank"><img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5"></a>
+    <a href="https://github.com/MyLearnHub"><img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5"></a>
   </p>
   </td>
   
@@ -81,7 +81,7 @@
       
   <p align="center">
     Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
-    <a href="https://github.com/SPTechLearn" target="_blank"><img src="assets/sptech-shield.svg"></a>
+    <a href="https://github.com/SPTechLearn"><img src="assets/sptech-shield.svg"></a>
   </p>
   </td>
 </tr></table>
@@ -95,11 +95,11 @@
 
 ## <div align="center">📱Social Media</div>
 <div align="center"> 
-  <a href = "mailto:pauloalvares66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paulo-alvares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/paulo_10111/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/paulogabriel.alvares" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://codepen.io/Poulos-Alvares" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/paulo_10111/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/paulogabriel.alvares"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://codepen.io/Poulos-Alvares"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
 <!-- ## <div align="center">🏃My Activity</div>
