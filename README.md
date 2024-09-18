@@ -21,7 +21,7 @@
   ### <div align="center"> Front-End </div>
       
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,ts,react,tailwind&perline=3" />
   </p>
   </td>
   
@@ -30,7 +30,7 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,python,kotlin&perline=3" />
   </p>
   </td>
   
@@ -39,7 +39,7 @@
   ### <div align="center"> Database </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&perline=3" />
   </p>
   </td>
 
@@ -48,7 +48,7 @@
   ### <div align="center"> Cloud </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform&perline=3" />
   </p>
   </td>
   
@@ -57,7 +57,7 @@
   ### <div align="center"> Tools </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=git,linux,figma,docker&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=git,figma,docker&perline=3" />
   </p>
   </td>
 </tr></table>
