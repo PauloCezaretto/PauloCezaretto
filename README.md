@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
   <img width="80%" src="assets/banner_name.png"/>
-</div> -->
+</div>
 
 ## <div align="center">👋About Me</div>
 
