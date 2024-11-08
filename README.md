@@ -2,98 +2,92 @@
   <img width="80%" src="assets/banner_name.png"/>
 </div>
 
-## <div align="center">👋About Me</div>
-
 <p align="center">
-  Hey there, visitor to my GitHub profile! I'm Paulo, passionate about technology and always seeking new challenges. <br><br>
-  I'm 20 years old and have a degree in Systems Analysis and Development from SPTech. My journey in the tech world is <br>
-  just beginning, and each day is a new chance to learn something amazing. I'm always on the lookout for emerging technologies <br>
-  that are revolutionizing the tech landscape. <br><br>
-  Welcome to my profile! Feel free to explore my projects, give suggestions, or simply chat about this endlessly fascinating <br>
-  universe that is technology. I'm always open to new connections and learning opportunities.
+  <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a>
 </p>
 
-## <div align="center">👨‍💻Technologies</div>
+## 👋 About Me
 
-<table align="center"><tr>
-  <td valign="top" width="20%">
-      
-  ### <div align="center"> Front-End </div>
-      
-  <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,ts,react,tailwind&perline=3" />
-  </p>
-  </td>
-  
-  <td valign="top" width="20%">
+<p>
+  Hello, visitor to my GitHub profile! I'm Paulo, passionate about technology.
 
-  ### <div align="center"> Back-End </div>
+  I'm 20 years old and I started my journey in the world of technology at the age of 14, during high school as part of the Systems Development technical course at Etec Dr. Celso Giglio (Osasco II). It was there that I had my first contact with a programming language (C#) and immersed myself in full-stack development studies, with HTML, CSS, JavaScript and PHP in addition to embedded systems and databases.
 
-  <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,python,kotlin&perline=3" />
-  </p>
-  </td>
-  
-  <td valign="top" width="20%">
+  After completing high school, I entered São Paulo Tech School (SPTech) for the Systems Analysis and Development course. At college, I deepened my knowledge in application development, with emphasis on the use of React and SpringBoot. I also developed a solid foundation in systems analysis and the processes that involve the world of technology.
 
-  ### <div align="center"> Database </div>
+  In addition to my academic training, I had valuable experience at Accenture, where I worked with ABAP development on the SAP team. This experience gave me practical insight into customer churn, code versioning, modeling and the importance of documentation.
 
-  <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&perline=3" />
-  </p>
-  </td>
+  I believe that every day is a new opportunity to learn something incredible, and I am always on the lookout for emerging technologies that are revolutionizing the technology landscape.
 
-  <td valign="top" width="20%">
+  Welcome to my profile! Feel free to explore my projects, make suggestions, or chat about technology. I am always open to new connections and learning opportunities.
+</p>
 
-  ### <div align="center"> Cloud </div>
+## 🧑🏼‍💻 Technologies That I Know
 
-  <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform&perline=3" />
-  </p>
-  </td>
-  
-  <td valign="top" width="20%">
+<table align="center">
+  <tr>
+    <td valign="top" width="20%">
+      <h3 align="center">Front-End</h3>
+      <div align="center">
+        <img src="https://iconsverse.vercel.app/icons?i=ts,react,tailwind,php&perline=2" />
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 align="center">Back-End</h3>
+      <div align="center">
+        <img src="https://iconsverse.vercel.app/icons?i=nodejs,spring,python,kotlin&perline=2" />
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 align="center">Database</h3>
+      <div align="center">
+        <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&perline=2" />
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 align="center">Cloud</h3>
+      <div align="center">
+        <img src="https://iconsverse.vercel.app/icons?i=azure,aws,terraform&perline=2" />
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 align="center">centerTools</h3>
+      <div align="center">
+        <img src="https://iconsverse.vercel.app/icons?i=figma,docker,powerbi&perline=2" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-  ### <div align="center"> Tools </div>
+## 📖 Studying
 
-  <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=git,figma,docker&perline=3" />
-  </p>
-  </td>
-</tr></table>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">✏️ My Learn Hub</h3>
+      <p align="center">
+        Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br>         <br>
+        <a href="https://github.com/MyLearnHub"><img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5"></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🎒 SPTech Learn</h3>
+      <p align="center">
+        Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
+        <a href="https://github.com/SPTechLearn"><img src="assets/sptech-shield.svg"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## <div align="center">📖Studying</div>
-
-<table align="center"><tr>
-  <td valign="top" width="50%">
-      
-  ### <div align="center"> ✏️My Learn Hub </div>
-      
-  <p align="center">
-    Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br><br>
-    <a href="https://github.com/MyLearnHub"><img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5"></a>
-  </p>
-  </td>
-  
-  <td valign="top" width="50%">
-
-  ### <div align="center"> 🎒SPTech Learn</div>
-      
-  <p align="center">
-    Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
-    <a href="https://github.com/SPTechLearn"><img src="assets/sptech-shield.svg"></a>
-  </p>
-  </td>
-</tr></table>
-
-## <div align="center">📊Status</div>
+## <div align="center">📊 Stats</div>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&border_color=30363d&bg_color=00000000&custom_title=Language"/>
 </div>
 
-## <div align="center">📱Social Media</div>
+## <div align="center">📫 Connect With Me</div>
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
