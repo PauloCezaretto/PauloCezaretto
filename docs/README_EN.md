@@ -1,29 +1,28 @@
 <div align="center">
-  <img width="80%" src="assets/banner_name.png"/>
+  <img width="80%" src="../assets/banner_name.png"/>
 </div>
 
 <p align="center">
-  <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a>
+  <a href="../README.md">Português</a> · <a href="#">English</a>
 </p>
 
-## 👋 Sobre Mim
+## 👋 About Me
 
 <p>
-  Olá, visitante do meu perfil no GitHub! Eu sou o Paulo, um apaixonado por tecnologia.
+  Hello, visitor to my GitHub profile! I'm Paulo, passionate about technology.
 
-Tenho 20 anos e iniciei minha jornada no mundo da tecnologia aos 14 anos, durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas pela Etec Dr. Celso Giglio (Osasco II). Foi lá que tive meu primeiro contato com uma linguagem de programação (C#) e mergulhei nos estudos de desenvolvimento full-stack, com HTML, CSS, JavaScript e PHP, além de sistemas embarcados e bancos de dados.
+  I'm 20 years old and I started my journey in the world of technology at the age of 14, during high school as part of the Systems Development technical course at Etec Dr. Celso Giglio (Osasco II). It was there that I had my first contact with a programming language (C#) and immersed myself in full-stack development studies, with HTML, CSS, JavaScript and PHP in addition to embedded systems and databases.
 
-Após concluir o ensino médio, ingressei na São Paulo Tech School (SPTech) para o curso de Análise e Desenvolvimento de Sistemas. Na faculdade, aprofundei meus conhecimentos em desenvolvimento de aplicações, com destaque para o uso de React e SpringBoot. Também desenvolvi uma base sólida em análise de sistemas e nos processos que envolvem o mundo da tecnologia.
+  After completing high school, I entered São Paulo Tech School (SPTech) for the Systems Analysis and Development course. At college, I deepened my knowledge in application development, with emphasis on the use of React and SpringBoot. I also developed a solid foundation in systems analysis and the processes that involve the world of technology.
 
-Além da formação acadêmica, tive uma experiência valiosa na Accenture, onde trabalhei com desenvolvimento ABAP no time SAP. Essa experiência me proporcionou uma visão prática sobre a rotatividade de clientes, versionamento de código, modelagem e a importância da documentação.
+  In addition to my academic training, I had valuable experience at Accenture, where I worked with ABAP development on the SAP team. This experience gave me practical insight into customer churn, code versioning, modeling and the importance of documentation.
 
-Acredito que cada dia é uma nova oportunidade para aprender algo incrível, e estou sempre em busca de tecnologias emergentes que estão revolucionando o cenário tecnológico.
+  I believe that every day is a new opportunity to learn something incredible, and I am always on the lookout for emerging technologies that are revolutionizing the technology landscape.
 
-Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, dar sugestões ou conversar sobre tecnologia. Estou sempre aberto a novas conexões e oportunidades de aprendizado.
-
+  Welcome to my profile! Feel free to explore my projects, make suggestions, or chat about technology. I am always open to new connections and learning opportunities.
 </p>
 
-## 🧑🏼‍💻 Tecnologias
+## 🧑🏼‍💻 Technologies That I Know
 
 <table align="center">
   <tr>
@@ -60,14 +59,14 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
   </tr>
 </table>
 
-## 📚 Estudando...
+## 📖 Studying
 
 <table align="center">
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">✏️ My Learn Hub</h3>
       <p align="center">
-        Organização dedicada a todos os cursos, certificações, bootcamps e eventos online que participei. Aqui você encontrará a trajetória completa do meu aprendizado contínuo e autodidata. <br><br>
+        Organization dedicated to all my courses, certifications, bootcamps and online events. Here you will find the complete trajectory of my continuous and self-taught learning. <br><br>
         <a href="https://github.com/MyLearnHub">
           <img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5">
         </a>
@@ -76,24 +75,23 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
     <td valign="top" width="50%">
       <h3 align="center">🎒 SPTech Learn</h3>
       <p align="center">
-        Organização dedicada a projetos, documentações, apontamentos e estudos realizados durante minha graduação em Análise e Desenvolvimento de Sistemas na SPTech. <br><br>
+        Organization dedicated to projects, documentation, notes and studies carried out during my graduation in Systems Analysis and Development at SPTech. <br><br>
         <a href="https://github.com/SPTechLearn">
-          <img src="assets/sptech-shield.svg">
+          <img src="../assets/sptech-shield.svg">
         </a>
       </p>
     </td>
   </tr>
 </table>
 
-## <div align="center">📊 Status</div>
+## <div align="center">📊 Stats</div>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&border_color=30363d&bg_color=00000000&custom_title=Language"/>
 </div>
 
-## <div align="center">📫 Fale Comigo</div>
-
+## <div align="center">📫 Connect With Me</div>
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
