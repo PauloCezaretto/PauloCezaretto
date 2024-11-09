@@ -6,7 +6,7 @@
   <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a>
 </p>
 
-## 👋 Sobre Mim
+<h2 align="center">👋 Sobre Mim</h2>
 
 <p>
   Olá, visitante do meu perfil no GitHub! Eu sou o Paulo, um apaixonado por tecnologia.
@@ -23,7 +23,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
 
 </p>
 
-## 🧑🏼‍💻 Tecnologias
+<h2 align="center">🧑🏼‍💻 Tecnologias</h2>
 
 <table align="center">
   <tr>
@@ -60,7 +60,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
   </tr>
 </table>
 
-## 📚 Estudando...
+<h2 align="center">📚 Estudando...</h2>
 
 <table align="center">
   <tr>
@@ -85,14 +85,14 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
   </tr>
 </table>
 
-## <div align="center">📊 Status</div>
+<h2 align="center">📊 Status</h2>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&border_color=30363d&bg_color=00000000&custom_title=Language"/>
 </div>
 
-## <div align="center">📫 Fale Comigo</div>
+<h2 align="center">📫 Fale Comigo</h2>
 
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

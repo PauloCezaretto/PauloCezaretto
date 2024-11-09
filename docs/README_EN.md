@@ -6,7 +6,7 @@
   <a href="../README.md">Português</a> · <a href="#">English</a>
 </p>
 
-## 👋 About Me
+<h2 align="center">👋 About Me</h2> 
 
 <p>
   Hello, visitor to my GitHub profile! I'm Paulo, passionate about technology.
@@ -22,7 +22,7 @@
   Welcome to my profile! Feel free to explore my projects, make suggestions, or chat about technology. I am always open to new connections and learning opportunities.
 </p>
 
-## 🧑🏼‍💻 Technologies That I Know
+<h2 align="center">🧑🏼‍💻 Technologies That I Know</h2>
 
 <table align="center">
   <tr>
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-## 📖 Studying
+<h2 align="center">📖 Studying</h2>
 
 <table align="center">
   <tr>
@@ -84,14 +84,14 @@
   </tr>
 </table>
 
-## <div align="center">📊 Stats</div>
+<h2 align="center">📊 Stats</h2>
 
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Alvares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Status&border_color=30363d&bg_color=00000000"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Alvares&layout=compact&langs_count=8&theme=midnight-purple&border_color=30363d&bg_color=00000000&custom_title=Language"/>
 </div>
 
-## <div align="center">📫 Connect With Me</div>
+<h2 align="center">📫 Connect With Me</h2>
 <div align="center"> 
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
