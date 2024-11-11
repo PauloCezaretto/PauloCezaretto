@@ -67,7 +67,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
     <td valign="top" width="50%">
       <h3 align="center">✏️ My Learn Hub</h3>
       <p align="center">
-        Organização dedicada a todos os cursos, certificações, bootcamps e eventos online que participei. Aqui você encontrará a trajetória completa do meu aprendizado contínuo e autodidata. <br><br>
+        Organização dedicada a todos os cursos, certificações, bootcamps e eventos online que participei. Aqui está a trajetória completa do meu aprendizado autodidata. <br><br>
         <a href="https://github.com/MyLearnHub">
           <img src="https://img.shields.io/badge/My_Learn_Hub-red?style=for-the-badge&logo=leanpub&logoColor=f5f5f5">
         </a>
