@@ -30,7 +30,7 @@ Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos, d
     <td valign="top" width="20%">
       <h3 align="center">Front-End</h3>
       <div align="center">
-        <img src="https://iconsverse.vercel.app/icons?i=ts,react&perline=3" />
+        <img src="https://iconsverse.vercel.app/icons?i=ts,react,angular&perline=3" />
       </div>
     </td>
     <td valign="top" width="20%">
